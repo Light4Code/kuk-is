@@ -1,0 +1,5 @@
+**/bin
+**/obj
+**/cache
+**/node_modules
+.angular
